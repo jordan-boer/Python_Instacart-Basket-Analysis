@@ -28,7 +28,7 @@ Original datasets used for this project and columns they contain:
 - departments: department_id, department
 - orders: order_id, user_id, eval_set, order_number, order_dow, order_hour_of_day, days_since_prior_order
 - orders_products_prior: order_id, product_is, add_to_cart_order, reorder
-- products: product_id, product_name, aisle_id, department_id, prices
+- products: product_id, product_name, aisle_id, department_id, prices  
 Some columns were renamed for clarity and data sets were merged multiple times throughout the project.
 ## Tools
 Code was written in Jupyter notebooks using Python and utilizing the following libraries:
