@@ -42,6 +42,6 @@ Code was written in Jupyter notebooks using Python and utilizing the following l
 - Seaborn: for more advanced statistical data visualizations
 - Scipy: for scientific and technical computing with advanced mathematical functions
 ## Source and Disclaimer
-**Source:** "The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle
+**Source:** "The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle  
 **Disclaimer:** Instacart is a real company and their data is available to the public online, however, the customer data, as well as the “prices” column in the products data set, were both fabricated for the purpose of Career Foundry's Data Analytics program.
 
