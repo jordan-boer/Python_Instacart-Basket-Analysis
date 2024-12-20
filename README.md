@@ -20,7 +20,7 @@ Content description of project folders:
   - Prepared Data: contains the cleaned, wrangled, and merged datasets used for analysis.
 - 03 Scripts: contains Jupyter notebooks of each step of my analysis written in Python code.
   - Practice Scripts: contains Jupyter notebooks used during my read through of the Career Foundry course exercise.
-- 04 Analysis/Visualizations: contains all the visualizations I created to develop and explain insights.
+- 04 Analysis-Visualizations: contains all the visualizations I created to develop and explain insights.
   - Final Visualizations subfolder includes all my visualizations created for the final deliverable.
 - 05 Sent to client: contains an Excel file as the final deliverable outlining all the steps done in my analysis, along with my final visualizations and recommendations.
 ## Data
