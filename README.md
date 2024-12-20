@@ -17,7 +17,7 @@ Content description of project folders:
 - 01 Project Management: contains the project brief that outlines the details of the project.
 - 02 Data (not included due to size limitations): contains two subfolders:
   - Original Data: contains the original datasets of the project.
-  - Prepared Data: cleaned, wrangled, and merged datasets used for analysis.
+  - Prepared Data: contains the cleaned, wrangled, and merged datasets used for analysis.
 - 03 Scripts: contains Jupyter notebooks of each step of my analysis written in Python code.
   - Practice Scripts: contains Jupyter notebooks used during my read through of the Career Foundry course exercise.
 - 04 Analysis: contains the subfolder "Visualizations" that includes all the visualizations I created to develop and explain insights.
