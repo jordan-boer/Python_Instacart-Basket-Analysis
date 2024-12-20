@@ -16,10 +16,10 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 Content description of project folders:
 - 01 Project Management: contains the project brief that outlines the details of the project.
 - 02 Data (not included due to size limitations): contains two subfolders:
-- - Original Data: contains the original datasets of the project.
-- - Prepared Data: cleaned, wrangled, and merged datasets used for analysis.
+  - Original Data: contains the original datasets of the project.
+  - Prepared Data: cleaned, wrangled, and merged datasets used for analysis.
 - 03 Scripts: contains Jupyter notebooks of each step of my analysis written in Python code.
-- - Practice Scripts: contains Jupyter notebooks used during my read through of the Career Foundry course exercise.
+  - Practice Scripts: contains Jupyter notebooks used during my read through of the Career Foundry course exercise.
 - 04 Analysis: contains the subfolder "Visualizations" that includes all the visualizations I created to develop and explain insights.
 - 05 Sent to client: contains an Excel file as the final deliverable outlining all the steps done in my analysis, along with my final visualizations and recommendations.
 ## Data
@@ -40,6 +40,6 @@ Code was written in Jupyter notebooks using Python and utilizing the following l
 - Seaborn: for more advanced statistical data visualizations
 - Scipy: for scientific and technical computing with advanced mathematical functions
 ## Source and Disclaimer
-Source: "The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle
-Disclaimer: Instacart is a real company and their data is available to the public online, however, the customer data, as well as the “prices” column in the products data set, were both fabricated for the purpose of Career Foundry's Data Analytics program.
+**Source:** "The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle
+**Disclaimer:** Instacart is a real company and their data is available to the public online, however, the customer data, as well as the “prices” column in the products data set, were both fabricated for the purpose of Career Foundry's Data Analytics program.
 
